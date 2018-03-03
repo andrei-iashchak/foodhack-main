@@ -4,6 +4,3 @@
 [submodule "data"]
 	path = data
 	url = git@github.com:andrei-iashchak/foodhack-data.git
-[submodule "base"]
-	path = base
-	url = git@github.com:andrei-iashchak/foodhack-base.git
