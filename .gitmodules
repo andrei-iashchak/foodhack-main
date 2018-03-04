@@ -7,3 +7,6 @@
 [submodule "base"]
 	path = base
 	url = git@github.com:andrei-iashchak/foodhack-base.git
+[submodule "new-detection"]
+	path = new-detection
+	url = git@github.com:andrei-iashchak/new-detection.git
